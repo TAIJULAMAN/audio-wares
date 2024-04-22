@@ -1,4 +1,3 @@
-import React from "react";
 import img from "../assets/img/about.png";
 import { HiCheckBadge } from "react-icons/hi2";
 

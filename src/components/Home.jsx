@@ -1,4 +1,3 @@
-import React from "react";
 import img from "../assets/img/hero.png";
 import Button from "../layouts/Button";
 
